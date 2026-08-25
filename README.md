@@ -4,7 +4,7 @@ A browser-based 2D platformer built entirely in HTML5 Canvas and vanilla JavaScr
 
 ## Play It
 
-[Live demo →](#) *(update this link once GitHub Pages is live)*
+[Live demo →](#) 
 
 ## The Story
 
