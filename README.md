@@ -4,7 +4,7 @@ A browser-based 2D platformer built entirely in HTML5 Canvas and vanilla JavaScr
 
 ## Play It
 
-[Live demo →](#) 
+ [Live demo →](https://Memes820.github.io/starlight-game/)
 
 ## The Story
 
